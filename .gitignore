@@ -36,4 +36,9 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+terraform-azure.pub
+terraform-azure.pem
+*.pem
+*.pub
+
 /ssh-keys
